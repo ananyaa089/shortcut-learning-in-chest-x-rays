@@ -1,0 +1,15 @@
+{
+  "name": "smoke",
+  "train_csv": "unskewed_train.csv",
+  "epochs": 1,
+  "best_val_auroc": 0.5595238095238095,
+  "test_balanced_auroc": 0.45795454545454545,
+  "test_inverted_auroc": 0.6079545454545454,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6456286013126373,
+      "val_auroc": 0.5595238095238095
+    }
+  ]
+}

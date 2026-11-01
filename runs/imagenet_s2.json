@@ -1,0 +1,8 @@
+{
+ "name": "imagenet_s2",
+ "seed": 2,
+ "test_balanced": 0.8087143132716049,
+ "gap_healthy": 0.08445902550619269,
+ "gap_diseased": 0.048726503655215136,
+ "test_inverted": 0.736231674382716
+}

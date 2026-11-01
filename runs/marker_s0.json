@@ -1,0 +1,8 @@
+{
+ "name": "marker_s0",
+ "seed": 0,
+ "val": 0.9438563514048278,
+ "marker_test_balanced": 0.6624469521604939,
+ "marker_test_inverted": 0.21486786265432098,
+ "clean_test_balanced": 0.7783926504629629
+}

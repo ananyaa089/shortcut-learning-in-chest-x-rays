@@ -1,0 +1,14 @@
+{
+ "name": "age_f70_s1",
+ "f": 0.7,
+ "seed": 1,
+ "val": 0.8571075244502233,
+ "test_balanced": 0.8110291280864198,
+ "gap_healthy": 0.20403248071670532,
+ "gap_diseased": 0.24556919932365417,
+ "test_inverted": 0.6850405092592592,
+ "repair_test_balanced": 0.8450279706790124,
+ "repair_gap_healthy": 0.12010506010109978,
+ "repair_gap_diseased": 0.08547321825436038,
+ "repair_test_inverted": 0.7867476851851852
+}

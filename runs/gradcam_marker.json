@@ -1,0 +1,9 @@
+{
+ "marker_model_enrichment": 6.592951774597168,
+ "age_model_enrichment": 0.028051916509866714,
+ "marker_model_peak_hit": 1.0,
+ "age_model_peak_hit": 0.0,
+ "peak_hit_chance": 0.05803571428571429,
+ "box_area_fraction": 0.02040816326530612,
+ "n_images": 80
+}

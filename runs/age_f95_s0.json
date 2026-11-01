@@ -1,0 +1,14 @@
+{
+ "name": "age_f95_s0",
+ "f": 0.95,
+ "seed": 0,
+ "val": 0.7547133811973542,
+ "test_balanced": 0.7187258873456791,
+ "gap_healthy": 0.5727165341377258,
+ "gap_diseased": 0.590718150138855,
+ "test_inverted": 0.3711902006172839,
+ "repair_test_balanced": 0.8055073302469135,
+ "repair_gap_healthy": 0.10613087250934936,
+ "repair_gap_diseased": 0.10860344617829104,
+ "repair_test_inverted": 0.7491319444444445
+}

@@ -1,0 +1,50 @@
+{
+  "name": "skewed",
+  "train_csv": "skewed_train.csv",
+  "epochs": 8,
+  "best_val_auroc": 0.8176838810641628,
+  "test_balanced_auroc": 0.7959842345512678,
+  "test_inverted_auroc": 0.5574714955056406,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.41751077609257237,
+      "val_auroc": 0.7601005091582358
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.2925947033078097,
+      "val_auroc": 0.7889142365932686
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.202332629661857,
+      "val_auroc": 0.7795300756022834
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.14040831004306947,
+      "val_auroc": 0.8029656814124182
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.12684581363266642,
+      "val_auroc": 0.8034450836474244
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.10301672904701023,
+      "val_auroc": 0.8176838810641628
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.09719530944240544,
+      "val_auroc": 0.7724657805990875
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.05041477268377503,
+      "val_auroc": 0.7946670634133439
+    }
+  ]
+}
